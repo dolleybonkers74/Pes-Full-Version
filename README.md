@@ -254,3 +254,6 @@ This repository serves as the official landing page for PES 2021 - Pro Evolution
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of PES 2021 today!**
+
+---
+**Last updated:** 2026-09-09 19:36:59 UTC
