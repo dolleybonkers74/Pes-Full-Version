@@ -256,4 +256,4 @@ This repository serves as the official landing page for PES 2021 - Pro Evolution
 **Get the most recent version of PES 2021 today!**
 
 ---
-**Last updated:** 2026-11-01 15:50:47 UTC
+**Last updated:** 2026-11-01 20:17:19 UTC
